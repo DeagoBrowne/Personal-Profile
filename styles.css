@@ -26,17 +26,23 @@ p {
 img {
   height: 10rem;
   width: 10rem;
-  padding: 2rem;
 }
 
-/* tStackContainer {
+.tStackContainer {
   display: flex;
+  justify-content: center;
 }
 
-tStackContainer2 {
+.tStackContainer2 {
   display: flex;
-  flex-direction: column;
-} */
+  justify-content: center;
+}
+
+.aContainer {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+}
 
 a {
   font-size: 2em;
